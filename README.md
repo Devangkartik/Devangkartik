@@ -1,6 +1,4 @@
  Hi there 👋
- 
-    I'm Devangkartik
     
 🔭 I’m currently self learning frontend developement
      focusing also backend learning 🦾
