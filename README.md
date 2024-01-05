@@ -1,4 +1,4 @@
- Hi there 👋
+# Hi there 👋
     
 🔭 I’m currently self learning frontend developement
      focusing also backend learning 🦾
