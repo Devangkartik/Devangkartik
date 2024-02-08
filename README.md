@@ -7,7 +7,7 @@
 
 -🤔 I’m looking for job of frontend developer
 
--💬 Ask me about : HTML&CSS/JAVASCRIPT/REACT
+-💬 Ask me about : REACT/JAVASCRIPT/HTML&CSS
 
 -📫 How to reach me: devangkartiksuryavanshi@gmail.com
 
